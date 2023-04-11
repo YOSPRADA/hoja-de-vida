@@ -18,4 +18,4 @@ git commit: explicacion de los cambios realizados en el archivo
 
 git push: sube la informacion al repositorio remoto
 
-git merge: une el historial dividido
+git merge: une el historial dividido y bifurcado
